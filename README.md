@@ -5,12 +5,7 @@ I'm Andrei, a passionate embedded systems enthusiast and software developer with
 🚀 **About Me**  
 - Passionate about embedded systems, software development, and object-oriented programming  
 - Always eager to learn new technologies and overcome emerging challenges in tech  
-- Focused on developing creative solutions that bridge the gap between hardware and software  
-
-🛠️ **My Tech Stack**  
-- **Languages:** C, C++, Python, Java, JavaScript  
-- **Tools & Frameworks:** Arduino, PlatformIO, Git, STM32CubeIDE  
-- **Areas of Interest:** Embedded Systems, IoT, Firmware Development, Object-Oriented Programming  
+- Focused on developing creative solutions that bridge the gap between hardware and software   
 
 🌱 **What I'm Learning**  
 - Advanced Embedded Systems Design  
