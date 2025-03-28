@@ -15,7 +15,7 @@ I'm Andrei, a passionate embedded systems enthusiast and software developer with
 🤝 **Let's Connect**  
 - **GitHub:** [AndreiCatanoiu](https://github.com/AndreiCatanoiu)  
 - **Email:** andrei.catanoiu@gmail.com  
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/andrei-c%C4%83t%C4%83noiu-60b627279/))
 
 ⚡ **Fun Fact**  
 I love building cool gadgets and automating everyday tasks—always on the hunt for new ways to merge creativity with technology!
