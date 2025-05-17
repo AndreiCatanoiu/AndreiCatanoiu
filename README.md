@@ -19,3 +19,5 @@ I'm Andrei, a passionate embedded systems enthusiast and software developer with
 
 ⚡ **Fun Fact**  
 I love building cool gadgets and automating everyday tasks—always on the hunt for new ways to merge creativity with technology!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiCatanoiu&layout=compact&theme=radical)
