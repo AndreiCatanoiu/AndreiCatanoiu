@@ -5,6 +5,7 @@
 ## 🚀 About Me
 
 I'm a developer passionate about systems programming and backend development.  
+
 My focus is on writing efficient code in **C**, **C++**, and **Java**, both for embedded systems and server-side applications.
 
 I’m also comfortable working in Linux environments, having deployed and maintained my own cloud infrastructure for testing and MQTT data handling.
@@ -39,8 +40,8 @@ I manage my own VPS on AWS, where I’ve set up a live Linux-based server:
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiCatanoiu&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreiCatanoiu&show_icons=true&theme=tokyonight)
 
 ---
 
