@@ -76,7 +76,3 @@ I manage my own VPS on AWS, where I’ve set up a live Linux-based server:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndreiCatanoiu)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrei-c%C4%83t%C4%83noiu-60b627279)  
 📧 Email: andrei.catanoiu@gmail.com
-
----
-
-![Visitor Count](https://profile-counter.glitch.me/AndreiCatanoiu/count.svg)
